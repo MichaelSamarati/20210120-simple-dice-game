@@ -1,0 +1,6 @@
+﻿  Spiel.cpp
+  Wuerfel.cpp
+D:\2.Schuljahr\SEW\CPP_Projekte_Nicht_Schule\WuerfelSpiel_Samarati_20210120\WuerfelSpiel_Samarati_20210120\Wuerfel.cpp(9,12): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+  main.cpp
+  Code wird generiert...
+  WuerfelSpiel_Samarati_20210120.vcxproj -> D:\2.Schuljahr\SEW\CPP_Projekte_Nicht_Schule\WuerfelSpiel_Samarati_20210120\Debug\WuerfelSpiel_Samarati_20210120.exe
